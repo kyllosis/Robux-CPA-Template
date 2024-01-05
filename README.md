@@ -1,2 +1,2 @@
-# -100-Robux-Game-Card-CPA-Template
-Fuck what you stand for brother
+# feel free to use
+upload to any web hosting or fork this and use on netlify
